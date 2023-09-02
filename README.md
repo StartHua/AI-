@@ -51,3 +51,8 @@
 
 九.个人：AI正在改变这个世界，有时间多多关照这方面，能在工作，生活上带来很大改变！学习ai技术不要陷入到训练大模型里面去，等开源模型，不过最好能训练一次微型模型就够，除非专业搞NLP！
 做了这么久ai技术研究（非NLP算法开发）开发得出一个结论：GPT+本地数据库+prompt基本可以解决80%问题！
+![1693644496977](https://github.com/StartHua/AI-/assets/22284244/0c10b136-1b7a-4493-bf91-0b5b64c59cb1)
+![image](https://github.com/StartHua/AI-/assets/22284244/11118dea-0da3-4bdc-8f3c-05ac9977a8cb)
+![Uploading 1693644548402.jpg…]()
+
+

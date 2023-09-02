@@ -1,5 +1,7 @@
 ![1693644496977](https://github.com/StartHua/AI-/assets/22284244/0c10b136-1b7a-4493-bf91-0b5b64c59cb1)
 ![image](https://github.com/StartHua/AI-/assets/22284244/11118dea-0da3-4bdc-8f3c-05ac9977a8cb)
+![Uploading 1693644647025.jpg…]()
+
 一.开发此项目目的，为了短视频创作自动化，也是一次ai实用化,功能基本已经完成,有能力的自行修改！python！
 
 二.项目支持youtobe,titko,抖音，bilibili视频下载（youtobe，tiko需要翻墙注意不要全局，因为sd Fooocus 会报错）.

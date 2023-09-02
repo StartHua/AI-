@@ -1,0 +1,21 @@
+flask
+fastapi
+httpx
+edge_tts
+tts==0.14.0
+openai-whisper
+pywebio
+douyin-tiktok-scraper 
+googletrans==3.1.0a0 
+pytube
+g4f
+kivy
+py-cpuinfo
+pycryptodome
+ffmpeg-python
+gradio
+you-get
+
+# -i https://pypi.douban.com/simple
+# pip uninstall charset-normalizer
+# conda install -c conda-forge charset-normalizer
